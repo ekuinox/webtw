@@ -1,5 +1,14 @@
 <?php
 
+/**
+* @6lmx
+*
+* tweet : https://twitter.com/i/tweet/create status => tweet text
+* setting : https://twitter.com/settings/accounts/update
+* change password : https://twitter.com/settings/password/update
+*/
+
+
 class webtw{
 
 	private $authenticity_token;
