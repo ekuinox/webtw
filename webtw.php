@@ -1,7 +1,7 @@
 <?php
 
 /**
-* @6lmx
+* @PUPPETCALL
 *
 * tweet : https://twitter.com/i/tweet/create status => tweet text
 * setting : https://twitter.com/settings/accounts/update
